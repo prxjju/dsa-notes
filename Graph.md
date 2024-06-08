@@ -1,7 +1,9 @@
-DEFINITION \n
+DEFINITION
+
 Graph- A graph is a non-linear data structure that consists of edges and vertices(nodes).
 
 TYPES
+
 There are two types of graphs in terms of direction
   - Directed graph
   - Undirected graph
