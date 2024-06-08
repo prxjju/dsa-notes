@@ -27,8 +27,7 @@ There are three typical representations of graph
 
 PATTERNS (Striver)
   - Traversal (BFS / DFS)
-  - Topological Sorting- A topological sort is a graph traversal in which each node v is visited only after all its dependencies are visited. 
-A topological ordering is possible if and only if the graph has no directed cycles, that is if it is a directed acyclic graph (DAG).
+  - Topological Sorting- A topological sort is a graph traversal in which each node v is visited only after all its dependencies are visited. A topological ordering is possible if and only if the graph has no directed cycles, that is if it is a directed acyclic graph (DAG).
   - Shortest Path Algorithms
     - Dijkstra
     - Bellman-Ford
@@ -42,4 +41,3 @@ NOTES
 - Use BFS to find minimum moves to reach the target
 - Topological sorting can be done using BFS and DFS both. Prefer BFS (Kahn's Algorithm)
 - Topological sorting can be used to detect cycles in a directed graph
--
