@@ -42,9 +42,10 @@ PATTERNS (Striver)
   - Disjoint Set / Minimum spanning tree
 
 CODE WALKTHROUGH
-
+  
 
 NOTES
 - Use BFS to find minimum moves to reach the target
 - Topological sorting can be done using BFS and DFS both. Prefer BFS (Kahn's Algorithm)
-- Topological sorting can be used to detect cycles in a directed graph
+- Topological sorting can be used to detect cycles in a directed graph (Can also be done using simple dfs by maintaining global seen and local seen path)
+- Cycle Detection in an undirected graph can be done using simple dfs traversal
