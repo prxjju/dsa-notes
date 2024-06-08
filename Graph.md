@@ -1,4 +1,4 @@
-DEFINITION
+DEFINITION \n
 Graph- A graph is a non-linear data structure that consists of edges and vertices(nodes).
 
 TYPES
