@@ -29,7 +29,7 @@ REPRESENTATION
 There are three typical representations of graph
   - Adjacency Matrix- A matrix with 0/1 values where 1 represents an edge between row and col nodes and vice-versa.
   - Adjacency List- A nested list containing a list of nodes that have an edge with the index node e.g. [[1,2],[3,4]] index node 0 has a connected edge to 1 and 2.
-  - Adjdacency Map- Map<Node, List<Node>>
+  - Adjdacency Map- Map<Node, List<Node>> node to its neightbours map
 
 PATTERNS (Striver)
 
