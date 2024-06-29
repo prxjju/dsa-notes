@@ -35,6 +35,7 @@ There are three typical representations of graph
 
   - Traversal (BFS / DFS)
   - Topological Sorting- A topological sort is a graph traversal in which each node v is visited only after all its dependencies are visited. A topological ordering is possible if and only if the graph has no directed cycles, that is if it is a directed acyclic graph (DAG).
+In computer science, a topological sort or topological ordering of a directed graph is a linear ordering of its vertices such that for every directed edge (u,v) from vertex u to vertex v, u comes before v in the ordering.
   - Shortest Path Algorithms
     - Dijkstra
     - Bellman-Ford
